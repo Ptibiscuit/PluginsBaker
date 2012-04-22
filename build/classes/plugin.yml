@@ -1,0 +1,8 @@
+name: PluginsBaker
+main: com.ptibiscuit.framework.PluginsBaker
+version: 0.3
+description: Framework for all developpers !
+depend: [Vault]
+authors:
+- Ptibiscuit
+commands:
